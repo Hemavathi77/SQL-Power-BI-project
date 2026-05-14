@@ -1,4 +1,4 @@
- Ola Rides Analytics Dashboard | Power BI + SQL
+ **Ola Rides Analytics Dashboard | Power BI + SQL**
 
 An interactive data analytics dashboard built using Power BI and SQL to analyze ride booking trends, revenue performance, customer behavior, vehicle usage, and ride cancellation patterns for Ola ride services.
 
